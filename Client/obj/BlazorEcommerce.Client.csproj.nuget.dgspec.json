@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/marcos/Documents/BlazorEccommerce/Client/BlazorEcommerce.Client.csproj": {}
+  },
+  "projects": {
+    "/home/marcos/Documents/BlazorEccommerce/Client/BlazorEcommerce.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/marcos/Documents/BlazorEccommerce/Client/BlazorEcommerce.Client.csproj",
+        "projectName": "BlazorEcommerce.Client",
+        "projectPath": "/home/marcos/Documents/BlazorEccommerce/Client/BlazorEcommerce.Client.csproj",
+        "packagesPath": "/home/marcos/.nuget/packages/",
+        "outputPath": "/home/marcos/Documents/BlazorEccommerce/Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/marcos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/marcos/Documents/BlazorEccommerce/Shared/BlazorEcommerce.Shared.csproj": {
+                "projectPath": "/home/marcos/Documents/BlazorEccommerce/Shared/BlazorEcommerce.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Blazored.LocalStorage": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.15, 6.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/marcos/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "/home/marcos/Documents/BlazorEccommerce/Shared/BlazorEcommerce.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/marcos/Documents/BlazorEccommerce/Shared/BlazorEcommerce.Shared.csproj",
+        "projectName": "BlazorEcommerce.Shared",
+        "projectPath": "/home/marcos/Documents/BlazorEccommerce/Shared/BlazorEcommerce.Shared.csproj",
+        "packagesPath": "/home/marcos/.nuget/packages/",
+        "outputPath": "/home/marcos/Documents/BlazorEccommerce/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/marcos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/marcos/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
