@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations.Schema;
-namespace BlazorEcommerce.Shared
-{
+
+namespace BlazorEcommerce.Shared;
     public class Product
     {
         public int Id { get; set; }
@@ -19,4 +19,3 @@ namespace BlazorEcommerce.Shared
         public bool Featured { get; set; } = false;
         public List<ProductVariant> Variants { get; set; } = new List<ProductVariant>(); 
     }
-}
