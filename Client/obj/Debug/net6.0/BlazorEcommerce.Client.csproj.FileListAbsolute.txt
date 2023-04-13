@@ -2501,3 +2501,7 @@
 /home/marcos/Documents/BlazorEccommerce/Client/obj/Debug/net6.0/BlazorEcommerce.Client.pdb
 /home/marcos/Documents/BlazorEccommerce/Client/obj/Debug/net6.0/ref/BlazorEcommerce.Client.dll
 /home/marcos/Documents/BlazorEccommerce/Client/obj/Debug/net6.0/scopedcss/Shared/UserButton.razor.rz.scp.css
+/home/marcos/Documents/BlazorEccommerce/Client/bin/Debug/net6.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Authorization.dll
+/home/marcos/Documents/BlazorEccommerce/Client/bin/Debug/net6.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz
+/home/marcos/Documents/BlazorEccommerce/Client/bin/Debug/net6.0/Microsoft.AspNetCore.Components.Authorization.dll
+/home/marcos/Documents/BlazorEccommerce/Client/obj/Debug/net6.0/build-gz/QGF3FeKe.gz

@@ -220,3 +220,8 @@
 /home/marcos/Documents/BlazorEccommerce/Server/obj/Debug/net6.0/BlazorEcommerce.Server.pdb
 /home/marcos/Documents/BlazorEccommerce/Server/obj/Debug/net6.0/BlazorEcommerce.Server.genruntimeconfig.cache
 /home/marcos/Documents/BlazorEccommerce/Server/obj/Debug/net6.0/ref/BlazorEcommerce.Server.dll
+/home/marcos/Documents/BlazorEccommerce/Server/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/home/marcos/Documents/BlazorEccommerce/Server/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/marcos/Documents/BlazorEccommerce/Server/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/marcos/Documents/BlazorEccommerce/Server/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/marcos/Documents/BlazorEccommerce/Server/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll

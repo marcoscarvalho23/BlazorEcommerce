@@ -10,6 +10,7 @@
       "Blazored.LocalStorage.dll": "sha256-Jq\/dS58mO5wtL2d0x\/FeAdDZ1bUTpTzPODJpBZUre\/4=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-mU8wXrw1NaAfoswi7J10exqtK90y6UBTDA8jt1T84BQ=",
       "Microsoft.AspNetCore.Components.dll": "sha256-VEJzgKvwGbPm2I+rYbqDt\/Ret+PXbgWB8pBkqxAHjz4=",
+      "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-xbEcMmsZVcvk5fX+1SeXPguS4wF3qoU0hqW3MlQa6O0=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-0WJxmwuCKgsNP0fiuA+6gNNYVwhPz4yS+4AfhQS+nms=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-XDCV\/RyeAtdLohEp52Lx\/MOerL0MYMNbl3XDgihnWaQ=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-dYl0Jve94l7Z12n37ieD42d7LjD\/pfo1mEAzuqONjMw=",
@@ -198,14 +199,14 @@
       "netstandard.dll": "sha256-REs1\/xYvAzuX2k2Y5p\/5IaM3O\/zaiYSW62pOQBGMrrA=",
       "System.Private.CoreLib.dll": "sha256-Bz7VnNtt03SzAvIN30yx1e25P6SfMdLYIaKIy7ASEnw=",
       "BlazorEcommerce.Shared.dll": "sha256-gjlATkgqYcvaoQ9muaL42QW3G3VGJ78TYscWP4plK6A=",
-      "BlazorEcommerce.Client.dll": "sha256-+QzlvgjNCILzvu5Vtvon7jR31qBHVrlfHN2tVNQLUw4="
+      "BlazorEcommerce.Client.dll": "sha256-wuaeWRgdR7Rex2qkvsf9b2chXZkAmTJvKh5cHH834v4="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "BlazorEcommerce.Shared.pdb": "sha256-xlRvv15QEZD8kSsRIzj4hM5MRDRBmZmhhrpoOcjyeTg=",
-      "BlazorEcommerce.Client.pdb": "sha256-SuLWl7Y42+H1OeFeVuUE1Fr5+6J3RVgJOWoVUUhNhgA="
+      "BlazorEcommerce.Client.pdb": "sha256-o9MlJTmuYjVKnYgzu7Regrivbgd6F7h1A+Ubaxqlaaw="
     },
     "runtime": {
       "dotnet.6.0.15.9rs4rgdrzz.js": "sha256-fb2wBZaRp096nChMG9nDNEcW0kW1whA\/kfQNyH+5QpQ=",
